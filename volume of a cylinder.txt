@@ -1,0 +1,6 @@
+#test
+def volume(r,h,pi=3.142):
+    
+    x=pi*r*r*h
+    print("volume of the cylinder is",x)
+volume(7,10)
